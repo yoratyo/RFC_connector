@@ -1,0 +1,196 @@
+
+**** Error file opened at 20221227 011243 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Tue Dec 27 01:12:43,336<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ESQ ASHOST=10.88.1.186 SYSNR=00 SAPROUTER=/H/66.96.249.166/S/3299 PCS=1
+
+LOCATION    SAProuter 40.4 on 'dmzsnc01'
+ERROR       dmzsnc01: route permission denied (103.171.147.121 to
+            10.88.1.186, 3300)
+TIME        Tue Dec 27 08:11:47 2022
+RELEASE     745
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     7908481
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20221227 011619 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Tue Dec 27 01:16:19,158<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ESQ ASHOST=10.88.1.186 SYSNR=00 SAPROUTER=/H/66.96.249.166/S/3200 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '66.96.249.166:3200' not reached
+TIME        Tue Dec 27 01:16:19 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 66.96.249.166:3200
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20221227 011649 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Tue Dec 27 01:16:49,615<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ESQ ASHOST=10.88.1.186 SYSNR=00 SAPROUTER=/H/66.96.249.166/S/3299 PCS=1
+
+LOCATION    SAProuter 40.4 on 'dmzsnc01'
+ERROR       dmzsnc01: route permission denied (103.171.147.121 to
+            10.88.1.186, 3300)
+TIME        Tue Dec 27 08:15:53 2022
+RELEASE     745
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     7908489
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20230214 112653 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Tue Feb 14 11:26:53,774<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ESQ ASHOST=10.88.1.186 SYSNR=00 SAPROUTER=/H/66.96.249.139/S/3299/H/ PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '66.96.249.139:3299' not reached
+TIME        Tue Feb 14 11:26:53 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 66.96.249.139:3299
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20230214 112928 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Tue Feb 14 11:29:28,813<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ESQ ASHOST=10.88.1.186 SYSNR=00 SAPROUTER=/H/66.96.249.139/S/3299/H/ PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '66.96.249.139:3299' not reached
+TIME        Tue Feb 14 11:29:28 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 66.96.249.139:3299
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20230214 113822 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Tue Feb 14 11:38:22,621<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=YFG_WB_INTERFACE ASHOST=10.88.1.186 SYSNR=00 SAPROUTER=/H/66.96.249.166/S/3299 PCS=1
+
+LOCATION    SAProuter 40.4 on 'dmzsnc01'
+ERROR       dmzsnc01: route permission denied (103.171.147.121 to
+            10.88.1.186, 3300)
+TIME        Tue Feb 14 12:40:46 2023
+RELEASE     745
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     8303383
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20230214 113854 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Tue Feb 14 11:38:54,445<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=YFG_WB_INTERFACE ASHOST=10.88.1.186 SYSNR=00 SAPROUTER=/H/66.96.249.166/S/3299/H/ PCS=1
+
+LOCATION    SAProuter 40.4 on 'dmzsnc01'
+ERROR       dmzsnc01: route permission denied (103.171.147.121 to
+            10.88.1.186, 3300)
+TIME        Tue Feb 14 12:41:18 2023
+RELEASE     745
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     8303385
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20230215 170804 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Wed Feb 15 17:08:04,443<    >RfcGetException rc (7) message: Name or password is incorrect (repeat logon)
+<RfcGetException
+
+
+**** Error file opened at 20230220 134429 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Mon Feb 20 13:44:29,448<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ESP ASHOST=10.88.1.187 SYSNR=00 SAPROUTER=/H/66.96.249.139/S/3299/H/ PCS=1
+
+LOCATION    SAProuter 40.4 on 'smartsnc01'
+ERROR       smartsnc01: route permission denied (103.171.147.121 to
+            10.88.1.187, 3300)
+TIME        Mon Feb 20 13:44:29 2023
+RELEASE     745
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     27498849
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20230221 142357 Western Indonesia Time Rel. 3.0.15 (2016-07-26) [721.713]
+Error:  >Tue Feb 21 14:23:57,442<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ESQ ASHOST=10.88.1.186 SYSNR=00 SAPROUTER=/H/66.96.249.139/S/3299/H/ PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '66.96.249.139:3299' not reached
+TIME        Tue Feb 21 14:23:57 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 66.96.249.139:3299
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
